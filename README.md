@@ -18,3 +18,5 @@ The second part builds a simpler, character-level LSTM model for next-word predi
 
 
 output:
+
+![Image](https://github.com/user-attachments/assets/95f53344-6473-457d-9296-2cdbc07e9b1f)
